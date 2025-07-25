@@ -8,6 +8,7 @@ dependencies:
   - cucim=24.04.00=cuda12_py310_240410_ga24abfd_0
   - cupy=13.3.0=py310h1b77274_0
   - cupy-core=13.3.0=py310hc8bf42c_0
+  - libvips=8.15.2=h379008d_1
   - numpy=1.23.5=py310h53a5b5f_0
   - openslide=4.0.0=h58ba908_1
   - pillow=10.3.0=py310hf73ecf8_0
